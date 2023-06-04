@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @gwerty5554356
+- 👀 I’m interested in lua
+- 🌱 I’m currently learning lua
+- 💞️ I’m looking to collaborate on lua
+- 📫 How to reach me lua
